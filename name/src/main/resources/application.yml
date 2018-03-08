@@ -1,2 +1,5 @@
 server.port: 7070
-name: Ryan
+name: Xin
+spring:
+  application:
+    name: name

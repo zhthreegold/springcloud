@@ -5,3 +5,7 @@ greetings:
   EN: Hello
   ES: Hola
   DE: Hallo
+
+spring:
+  application:
+    name: greeting
